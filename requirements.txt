@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn  # For Z-score calculation/potential stats tests
+streamlit
