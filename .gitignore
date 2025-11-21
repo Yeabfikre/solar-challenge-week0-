@@ -1,0 +1,10 @@
+# Python environment
+venv/
+*.pyc
+
+# Data files (MUST be ignored)
+data/
+*.csv
+
+# Jupyter Notebook Files
+.ipynb_checkpoints/
